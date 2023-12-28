@@ -1,0 +1,4 @@
+snow-flake:
+  enable: true
+  machine-id: 1
+  data-center-id: 1
